@@ -1,4 +1,4 @@
-const apiKey = "a598f1bdf807f884c0d6664018971c7e"; // minha key da api
+ const apiKey = ""; // minha key da api
 const apiCountryURL = "https://countryflagsapi.com/png/"; // mostrar bandeira do pais 
 
 const cityInput = document.querySelector("#city-input");
